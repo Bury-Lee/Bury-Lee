@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=720&height=120&lines=Hi+，+I'm+Bury.Lee;A+student+who+loves+coding+%26+writing;Backend+%7C+AI+%7C+Future+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=720&height=120&lines=Hi+%EF%BC%8C+I%27m+Bury.Lee;A+student+who+loves+coding+%26+writing;Backend+%7C+AI+%7C+Future+Architect" alt="Typing SVG" />
   <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bury-Lee/Bury-Lee/output/github-contribution-grid-snake-dark.svg">
@@ -22,13 +22,8 @@
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Bury-Lee&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Bury-Lee&theme=tokyonight&hide_border=false" />
+  <br/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bury-Lee&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bury-Lee&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" />
 </div>
 
 ## 📈 Contribution Graph
@@ -54,5 +49,6 @@
   <br/>
   <br/>
   ✨ 感谢访问，欢迎 Star & Follow ✨
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=28&fontColor=fff" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=28&fontColor=fff" />
