@@ -44,7 +44,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bury-Lee&label=Profile%20%E8%AE%BF%E5%AE%A2%E6%AC%A1%E6%95%B0&color=0e75b6&style=flat" alt="Profile views" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=Bury-Lee&label=Profile%20%E8%AE%BF%E5%AE%A2%E6%AC%A1%E6%95%B0&color=0e75b6&style=flat" alt="Profile views" /> -->
   <img src="https://img.shields.io/github/followers/Bury-Lee?label=Followers&style=flat&color=0e75b6" alt="Followers" />
   <br/>
   <br/>
