@@ -17,10 +17,23 @@
 - 🌱 持续学习，笔耕不辍
 - 💬 欢迎一起交流技术 / 写作 / 动漫
 
-## 📈 Contribution Graph
+## 📊 GitHub Stats
+
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bury-Lee&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bury-Lee&layout=compact&theme=tokyo-night&hide_border=true&langs_count=8" alt="Top Langs" width="40%" />
+</div> -->
+
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bury-Lee&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://streak-stats.demolab.com?user=Bury-Lee&theme=tokyo-night&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</div>
+
+## 💬 Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyo-night" alt="Random Dev Quote" />
 </div>
 
 ## 🤝 Connect With Me
@@ -32,10 +45,14 @@
   <a href="https://qm.qq.com/q/7y8roQAtR6">
     <img src="https://img.shields.io/badge/QQ群-星梦的交流屋-12B7F5?style=for-the-badge&logo=tencent-qq&logoColor=white" alt="QQ群" />
   </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 <div align="center">
-  <!-- <img src="https://komarev.com/ghpvc/?username=Bury-Lee&label=Profile%20%E8%AE%BF%E5%AE%A2%E6%AC%A1%E6%95%B0&color=0e75b6&style=flat" alt="Profile views" /> -->
+  <img src="https://komarev.com/ghpvc/?username=Bury-Lee&label=Profile%20%E8%AE%BF%E5%AE%A2%E6%AC%A1%E6%95%B0&color=0e75b6&style=flat" alt="Profile views" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/Bury-Lee?label=Followers&style=flat&color=0e75b6" alt="Followers" />
   <br/>
   <br/>
